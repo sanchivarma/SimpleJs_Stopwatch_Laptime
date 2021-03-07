@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: #00ff00;
+    font-size: 3em;
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.button-timer {
+    font-size: 0.5em;
+    background-color: #00ff00;
+    border: 1px solid #2e8a2e;
+    margin: 5px;
+}
+textarea {
+    width: 50%;
+    background: rgba(0, 255, 0, 0.31);
+    color: #fff;
+    font-size: 19px;
+    padding: 10px;
+}
